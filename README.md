@@ -3,7 +3,7 @@
 This project solves for the constant term `c` of a polynomial using Lagrange interpolation. The input points are provided in a JSON format, where the y-values are encoded in different bases.
 
 ## Example Input  Test-case-1
-
+```json
 {
     "keys": {
         "n": 4,
@@ -26,14 +26,14 @@ This project solves for the constant term `c` of a polynomial using Lagrange int
         "value": "213"
     }
 }
-
+```
 # Result for the Above Input
 ### The secret constant 'c' is: 3
 ![image](https://github.com/user-attachments/assets/861d32c5-7524-460c-807c-29f78d9f896d)
 
 
 ## Example Input Test-case-2
-
+```json
 {
     "keys": {
         "n": 9,
@@ -75,7 +75,7 @@ This project solves for the constant term `c` of a polynomial using Lagrange int
         "base": "8",
         "value": "642121030037605"
     }
-
+```
 # Result for the Above Input
 ### The secret constant 'c' is: 28735619723864
 ![image](https://github.com/user-attachments/assets/57fcc8ce-208d-477e-96bd-c27b419f8355)
