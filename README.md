@@ -25,7 +25,8 @@ This project solves for the constant term `c` of a polynomial using Lagrange int
         "base": "4",
         "value": "213"
     }
-}
+} 
+
 
 # Result for the Above Input
 ### The secret constant 'c' is: 3
