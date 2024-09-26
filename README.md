@@ -29,6 +29,8 @@ This project solves for the constant term `c` of a polynomial using Lagrange int
 
 # Result for the Above Input
 ### The secret constant 'c' is: 3
+![image](https://github.com/user-attachments/assets/861d32c5-7524-460c-807c-29f78d9f896d)
+
 
 ## Example Input Test-case-2
 
@@ -76,4 +78,6 @@ This project solves for the constant term `c` of a polynomial using Lagrange int
 
 # Result for the Above Input
 ### The secret constant 'c' is: 28735619723864
+![image](https://github.com/user-attachments/assets/57fcc8ce-208d-477e-96bd-c27b419f8355)
+
 
